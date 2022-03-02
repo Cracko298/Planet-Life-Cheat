@@ -1,5 +1,5 @@
 # Planet-Life-Cheat
-This game haven't been hacked/modded yet until now. Here is the first official cheat for Planet Like that takes advantage of Base64 encryption which was used to decompile the confusing seed number(s) of the save file.
+Planet Life hasn't been hacked until now. Here is the first official cheat for Planet Like that takes advantage of Base64 encryption which was used to decompile and recompile the encrypted save file.
 
 This cheat includes:
 - Infinite Gold
