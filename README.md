@@ -9,15 +9,14 @@ Planet Life hasn't been hacked until now.
 - To use this on [Planet Life](https://www.planetlife.space/play) you'll probably want to import the provided *.planet file.
 - [This Link](//www.coolmathgames.com/sites/default/files/public_games/39874/) forces the game to open in the normal size on cool-math-games. (Fullscreen)
 
-
 # Features:
 - Infinite Gold
 - Infinite Wood
 - Infinite Stardust
 - Infinite Coco
 
-
-You'll need to recompile it or use my browser cheat (.planet) file provided in the repository.
+# Editing The Cheat:
+- 
 
 ![image](https://user-images.githubusercontent.com/78656905/138370958-50497b46-d567-4b14-b22f-97b80a65c3eb.png)
 ![image](https://user-images.githubusercontent.com/78656905/197082881-7e4fe773-dcb3-472b-9cb2-d62b201efa71.png)
