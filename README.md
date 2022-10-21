@@ -1,14 +1,22 @@
 # Planet-Life-Cheat
-Planet Life hasn't been hacked until now. Here is the first official cheat for Planet Like that takes advantage of Base64 encryption which was used to decompile and recompile the encrypted save file.
+Planet Life hasn't been hacked until now.
 
-This cheat includes:
+# Notes:
+- First Planet Life "hack".
+- Takes advantage of Base64 encryption & decryption.
+- Provided a *.planet file for the original website.
+- To use this on [cool-math-games](https://coolmathgames.com) you'll need to edit the "state" local varriable (With Base64).
+- To use this on [Planet Life](https://www.planetlife.space/play) you'll probably want to import the provided *.planet file.
+- [This Link](//www.coolmathgames.com/sites/default/files/public_games/39874/) forces the game to open in the normal size. (Fullscreen)
+
+
+# Features:
 - Infinite Gold
 - Infinite Wood
 - Infinite Stardust
 - Infinite Coco
 
-Anyway this is just my base save file with a few Hexidecimal and Base64 edits to make a cheat.
-Obviously the Base64 save seed and the decompiled save will be included in this cheat. (Note: To cheat at coolmathgame's version make sure to re-encrypt it in Base64 and use the developer application console).
+
 You'll need to recompile it or use my browser cheat (.planet) file provided in the repository.
 
 ![image](https://user-images.githubusercontent.com/78656905/138370958-50497b46-d567-4b14-b22f-97b80a65c3eb.png)
