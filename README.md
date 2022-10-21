@@ -21,4 +21,3 @@ You'll need to recompile it or use my browser cheat (.planet) file provided in t
 
 ![image](https://user-images.githubusercontent.com/78656905/138370958-50497b46-d567-4b14-b22f-97b80a65c3eb.png)
 
-![image](https://user-images.githubusercontent.com/78656905/138371249-541e0cfa-dcd8-4ebe-b387-a14c94c96d66.png)
