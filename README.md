@@ -16,7 +16,7 @@ Planet Life hasn't been hacked until now.
 - Infinite Coco
 
 # Editing The Cheat:
-- Use Base64 Decode/Encode.
+- Decode the Base64 String with [Base64-Decode](https://www.base64decode.org/) or 
 
 ![image](https://user-images.githubusercontent.com/78656905/138370958-50497b46-d567-4b14-b22f-97b80a65c3eb.png)
 ![image](https://user-images.githubusercontent.com/78656905/197082881-7e4fe773-dcb3-472b-9cb2-d62b201efa71.png)
