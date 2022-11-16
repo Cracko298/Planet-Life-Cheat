@@ -24,7 +24,7 @@ Planet Life hasn't been hacked until now.
 - Can converts the ***.planet*** file to a Save-Data Base64-String.
 
 # Credits:
-- [Cracko298](https://github.com/Cracko298)
+- Created By: [Cracko298](https://github.com/Cracko298)
 - Please [Star](https://github.com/Cracko298/Planet-Life-Cheat/stargazers) the Repository or [Fork](https://github.com/Cracko298/Planet-Life-Cheat/fork) it, this helps a ton!
 
 ![image](https://user-images.githubusercontent.com/78656905/138370958-50497b46-d567-4b14-b22f-97b80a65c3eb.png)
