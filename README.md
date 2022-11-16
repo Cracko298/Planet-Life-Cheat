@@ -2,7 +2,7 @@
 Planet Life hasn't been hacked until now.
 
 # Notes:
-- First Planet Life "hack". (ALSO WORKS WITH SUPER PLANET LIFE
+- First Planet Life "hack". (ALSO WORKS WITH SUPER PLANET LIFE)
 - Takes advantage of Base64 encryption & decryption.
 - Provided a ***.planet*** file for the original website.
 - To use this on [cool-math-games](https://coolmathgames.com) you'll need to edit the "state" local application varriable (With Base64).
