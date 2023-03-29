@@ -6,7 +6,7 @@ Planet Life hasn't been hacked until now.
 - Takes advantage of Base64 encryption & decryption.
 - Provided a ***.planet*** file for the original website.
 - To use this on [cool-math-games](https://coolmathgames.com) you'll need to edit the "state" local application varriable (With Base64).
-- To use this on [Planet Life](https://www.planetlife.space/play) you'll probably want to import the provided *.planet file.
+- To use this on [Planet Life](https://www.planetlife.space/play) or The [Full-Screen Version](https://www.planetlife.space/static/game/index.html) you'll probably want to import the provided *.planet file.
 - [This Link](//www.coolmathgames.com/sites/default/files/public_games/39874/) forces the game to open in the normal size on cool-math-games. (Fullscreen)
 
 # Features:
